@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="11ee3e57-9588-45e5-970b-aefc455d00bc" name="Changes" comment="finding the hypotenuse">
-      <change beforePath="$PROJECT_DIR$/src/FindMaximumNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FindMaximumNumber.java" afterDir="false" />
-    </list>
+    <list default="true" id="11ee3e57-9588-45e5-970b-aefc455d00bc" name="Changes" comment="finding the maximum number" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665344925005</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="finding the maximum number">
+      <created>1665345426590</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1665345426590</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -88,6 +93,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added three project : gas fee, body mass index and changing two numbers" />
     <MESSAGE value="finding the hypotenuse" />
-    <option name="LAST_COMMIT_MESSAGE" value="finding the hypotenuse" />
+    <MESSAGE value="finding the maximum number" />
+    <option name="LAST_COMMIT_MESSAGE" value="finding the maximum number" />
   </component>
 </project>
