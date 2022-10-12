@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class ForLoopsExample {
     public static void main(String[] args) {
         // This program will print 1 to 10
@@ -31,5 +33,28 @@ public class ForLoopsExample {
             }
             System.out.println();//new line
         }
+
+        //Write a program to find the sum of 5 integers.
+
+        int sum1 = 0;
+        Scanner scanner = new Scanner(System.in);
+        for(int h = 1; h <= 5; h++) {
+            System.out.println("Please enter int : ");
+            int num = scanner.nextInt();
+            sum1 += num;
+        }
+        System.out.println("Sum : " + sum1);
+
+        //Write a java program to calculate the factorial value of given number. Factorial x –> x * x-1 * x-2…x*1
+
+        int sum2 = 1;
+        System.out.println("Please enter num : ");
+        int num1 = scanner.nextInt();
+        for(int k = 1; k <= num1 ; k++) {
+            sum2 *= k;
+        }
+        System.out.println("Your total : " + sum2);
+
+
     }
 }
